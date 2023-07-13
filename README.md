@@ -8,7 +8,7 @@ The project consists of two pages:
 
 ### Bitcoin (BTC) Price Index page
 
-This page displays the current BTC price index, as provided by the Rest API: [Rest API URL](https://api.example.com/btc-price)
+This page displays the current BTC price index, as provided by the Rest API: [Rest API URL](https://api.coindesk.com/v1/bpi/currentprice.json)
 
 - The page includes price details of USD, GBP, and EUR currencies, refreshed every 5 seconds.
 - Users can choose between different data refresh intervals.
@@ -54,6 +54,6 @@ The application will be accessible at `http://localhost:3000`.
 
 ## Deployment
 
-The application is deployed to Vercel. You can access it using the following link: [Deployment Link]
+The application is deployed to Vercel. You can access it using the following link: [https://insomnia-assignment.vercel.app/]
 
 Thank you for reviewing my submission. If you have any questions or need further clarification, please don't hesitate to reach out.
